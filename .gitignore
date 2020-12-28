@@ -1,0 +1,8 @@
+patches/
+*.diff
+patch*
+config.h
+drw.o
+dwm
+dwm.o
+util.o
