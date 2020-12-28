@@ -20,17 +20,17 @@ static const char col_gray4[]       = "#eeeeee";
 /* Dracula Colors */
 static const char col_black1[] 		= "#000000";
 static const char col_black2[] 		= "#44475a";
-static const char col_red[] 		= "#ff5555";
+static const char col_red[] 			= "#ff5555";
 static const char col_green[] 		= "#50fa7b";
 static const char col_yellow[] 		= "#f1fa8c";
-static const char col_blue[] 		= "#bd93f9";
+static const char col_blue[] 			= "#bd93f9";
 static const char col_magenta[] 	= "#ff79c6";
-static const char col_cyan[] 		= "#8be9fd";
+static const char col_cyan[] 			= "#8be9fd";
 static const char col_white1[]		= "#bbbbbb";
 static const char col_white2[] 		= "#ffffff";
 
-static const char col_bg[]			= "#282a36";
-static const char col_fg[]			= "#f8f8f2";
+static const char col_bg[]				= "#282a36";
+static const char col_fg[]				= "#f8f8f2";
 
 
 static const char *colors[][3]      = {
